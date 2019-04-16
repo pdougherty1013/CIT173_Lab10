@@ -1,0 +1,3 @@
+* 12 * * * irish echo "Time for lunch!"
+1 * * * * irish echo "Can you hear me now?"
+* 0 * * 0 irish echo "Backing up the database!"
